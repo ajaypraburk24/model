@@ -1,0 +1,6 @@
+{
+  "name": "LeakFinder AI",
+  "description": "AI Revenue Leak Detection & Action System. Connects sales, orders, discounts, refunds, and delivery costs using NVIDIA AI to detect margin leaks, uncover root causes, and run what-if simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
